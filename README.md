@@ -12,3 +12,6 @@ Make more pages other than index, perhaps a blog page.
 
 
 Utilize Javascript in future versions.
+
+
+Ecommerce options.
