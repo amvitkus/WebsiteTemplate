@@ -1,5 +1,5 @@
 # WebsiteTemplate
-A basic and responsive website layout template for creating a new website. Placeholder images used.
+A basic and responsive website layout template for creating a new website. Placeholder images used. Created this to improve my HTML and CSS skills for web development fundamentals.
 
 
 Currently used as a base for making websites from the ground up in HTML and CSS. Can be used for personal, business, or portfolio style websites. Very responsive and customizable. Bits and pieces from this can be used for other websites.
