@@ -14,7 +14,4 @@ TO DO:
 Make more pages other than index, perhaps a blog page. Link more pages.
 
 
-Utilize Javascript in future versions.
-
-
-Ecommerce options, backend SQL, login page, etc.
+Utilize JavaScript in future versions.
